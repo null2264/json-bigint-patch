@@ -1,5 +1,5 @@
-import { stringify } from './lib/stringify';
-import { json_parse } from './lib/parse'
+import { stringify } from './lib/stringify.js';
+import { json_parse } from './lib/parse.js'
 
 let globalObj;
 
